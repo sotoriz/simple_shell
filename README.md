@@ -87,10 +87,10 @@ But also in non-interactive mode:
          /bin/ls
          /bin/ls
          $
-$ cat test_ls_2 | ./hsh
-hsh main.c shell.c test_ls_2
-hsh main.c shell.c test_ls_2
-$
+         $ cat test_ls_2 | ./hsh
+         hsh main.c shell.c test_ls_2
+         hsh main.c shell.c test_ls_2
+         $
 
 ## Tasks
 
