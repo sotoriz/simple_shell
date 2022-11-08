@@ -152,6 +152,8 @@ Simple shell 0.4 +
 
 - Implement the `env` built-in, that prints the current environment
 
+### Advance
+
 ### 6. Simple shell 0.1.1
 
 Simple shell 0.1 +
