@@ -96,7 +96,7 @@ But also in non-interactive mode:
 
 ### mandatory
 
-### 0. Betty would be proud
+### 0. Betty would be proud                   Mandatory
 
 Write a beautiful code that passes the Betty checks
 
