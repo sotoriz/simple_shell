@@ -262,4 +262,5 @@ Simple shell 1.0 +
 ### AUTHORS
 
 :man: Chukwuemeka Duruji
+
 :man: Sotonye Orifama
