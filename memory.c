@@ -8,9 +8,9 @@
  */
 int bfree(void **ptr)
 {
-	if (ptr && *ptr)
+	if (ptr && **ptr)
 	{
-		free(*ptr);
+		free(ptr);
 		*ptr = NULL;
 		return (1);
 	}
