@@ -7,6 +7,7 @@
  *
  * Return: 0 on success, 1 on error
  */
+
 int main(int ac, char **av)
 {
 	info_t info[] = { INFO_INIT };
@@ -29,9 +30,7 @@ int main(int ac, char **av)
 				_eputs(av[0]);
 				_eputs(": 0: Can't open ");
 				_eputs(av[1]);
-				_eputchar('\n');
-				_eputchar(BUF_FLUSH);
-				exit(127);
+								exit(127);
 			}
 			return (EXIT_FAILURE);
 		}
