@@ -1,4 +1,3 @@
-linee 1
 #include "shell.h"
 
 /**
